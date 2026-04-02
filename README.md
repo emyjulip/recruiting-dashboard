@@ -1,4 +1,4 @@
-markdown# Recruiting Operations Dashboard
+Recruiting Operations Dashboard
 
 A real-time recruiting intelligence dashboard built with React, designed to give 
 leadership clear visibility into hiring pipeline, recruiter performance, and 
