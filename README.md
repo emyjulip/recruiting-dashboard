@@ -1,9 +1,3 @@
-Let's write a great one. In VS Code:
-
-Click on README.md in the left panel
-Select all with Cmd + A and delete it
-Paste this in:
-
 markdown# Recruiting Operations Dashboard
 
 A real-time recruiting intelligence dashboard built with React, designed to give 
